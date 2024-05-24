@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BankManageDMModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="Borrow">
+    <Key>
+      <PropertyRef Name="CitizenID" />
+    </Key>
+    <Property Name="Money" Type="Int32" />
+    <Property Name="CitizenID" Type="String" MaxLength="12" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Salary" Type="Int32" />
+    <Property Name="MoneyBorrow" Type="Int32" />
+    <Property Name="KieuTinDung" Type="String" MaxLength="255" FixedLength="true" Unicode="false" />
+    <Property Name="TaiSanTheChap" Type="String" MaxLength="255" FixedLength="true" Unicode="false" />
+    <Property Name="KyHan" Type="String" MaxLength="255" FixedLength="true" Unicode="false" />
+    <Property Name="NgayChoVay" Type="DateTime" Precision="0" />
+    <Property Name="NgayHoanTien" Type="DateTime" Precision="0" />
+  </EntityType>
+  <EntityType Name="Credit">
+    <Key>
+      <PropertyRef Name="MaThe" />
+    </Key>
+    <Property Name="STK" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="MaThe" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="HanMuc" Type="Int32" Nullable="false" />
+    <Property Name="UsedMoney" Type="Int32" />
+    <Property Name="Method" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="NgayMo" Type="DateTime" Precision="0" />
+    <Property Name="NgayDaoHan" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK__Credit__STK__5EBF139D" FromRole="Credit" ToRole="Customer" />
+  </EntityType>
+  <EntityType Name="Customer">
+    <Key>
+      <PropertyRef Name="STK" />
+    </Key>
+    <Property Name="STK" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Name" Type="String" MaxLength="255" FixedLength="false" Unicode="false" Nullable="false" />
+    <Property Name="Address" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="DoB" Type="DateTime" Precision="0" />
+    <Property Name="CitizenID" Type="String" MaxLength="12" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="PhoneNum" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Money" Type="Int32" />
+    <Property Name="CreateAt" Type="DateTime" Precision="0" />
+    <Property Name="UpdateAt" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Credits" Relationship="Self.FK__Credit__STK__5EBF139D" FromRole="Customer" ToRole="Credit" />
+    <NavigationProperty Name="Savings" Relationship="Self.FK__Saving__STK__49C3F6B7" FromRole="Customer" ToRole="Saving" />
+    <NavigationProperty Name="Trans" Relationship="Self.FK__Trans__ReceivedS__37A5467C" FromRole="Customer" ToRole="Trans" />
+    <NavigationProperty Name="Trans1" Relationship="Self.FK__Trans__STK__36B12243" FromRole="Customer" ToRole="Trans" />
+    <Property Name="Note" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <EntityType Name="Saving">
+    <Key>
+      <PropertyRef Name="MaSo" />
+    </Key>
+    <Property Name="STK" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <Property Name="MaSo" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="Money" Type="Int32" />
+    <Property Name="KyHan" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="PhuongThucDaoHan" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="NgayGui" Type="DateTime" Precision="0" />
+    <Property Name="NgayDaoHan" Type="DateTime" Precision="0" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK__Saving__STK__49C3F6B7" FromRole="Saving" ToRole="Customer" />
+  </EntityType>
+  <EntityType Name="Tran">
+    <Key>
+      <PropertyRef Name="STK" />
+      <PropertyRef Name="MaGD" />
+    </Key>
+    <Property Name="STK" Type="String" MaxLength="10" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="MaGD" Type="String" MaxLength="20" FixedLength="true" Unicode="false" Nullable="false" />
+    <Property Name="LoaiGD" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="Money" Type="Int32" />
+    <Property Name="ThoigianGD" Type="DateTime" Precision="0" />
+    <Property Name="ReceivedSTK" Type="String" MaxLength="10" FixedLength="true" Unicode="false" />
+    <NavigationProperty Name="Customer" Relationship="Self.FK__Trans__ReceivedS__37A5467C" FromRole="Trans" ToRole="Customer" />
+    <NavigationProperty Name="Customer1" Relationship="Self.FK__Trans__STK__36B12243" FromRole="Trans" ToRole="Customer" />
+    <Property Name="Note" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+  </EntityType>
+  <Association Name="FK__Credit__STK__5EBF139D">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Credit" Type="Self.Credit" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="STK" />
+      </Principal>
+      <Dependent Role="Credit">
+        <PropertyRef Name="STK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Saving__STK__49C3F6B7">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Saving" Type="Self.Saving" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="STK" />
+      </Principal>
+      <Dependent Role="Saving">
+        <PropertyRef Name="STK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Trans__ReceivedS__37A5467C">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="0..1" />
+    <End Role="Trans" Type="Self.Tran" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="STK" />
+      </Principal>
+      <Dependent Role="Trans">
+        <PropertyRef Name="ReceivedSTK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK__Trans__STK__36B12243">
+    <End Role="Customer" Type="Self.Customer" Multiplicity="1" />
+    <End Role="Trans" Type="Self.Tran" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="Customer">
+        <PropertyRef Name="STK" />
+      </Principal>
+      <Dependent Role="Trans">
+        <PropertyRef Name="STK" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="BankManageDMContext" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="Borrows" EntityType="Self.Borrow" />
+    <EntitySet Name="Credits" EntityType="Self.Credit" />
+    <EntitySet Name="Customers" EntityType="Self.Customer" />
+    <EntitySet Name="Savings" EntityType="Self.Saving" />
+    <EntitySet Name="Trans" EntityType="Self.Tran" />
+    <AssociationSet Name="FK__Credit__STK__5EBF139D" Association="Self.FK__Credit__STK__5EBF139D">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Credit" EntitySet="Credits" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Saving__STK__49C3F6B7" Association="Self.FK__Saving__STK__49C3F6B7">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Saving" EntitySet="Savings" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Trans__ReceivedS__37A5467C" Association="Self.FK__Trans__ReceivedS__37A5467C">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Trans" EntitySet="Trans" />
+    </AssociationSet>
+    <AssociationSet Name="FK__Trans__STK__36B12243" Association="Self.FK__Trans__STK__36B12243">
+      <End Role="Customer" EntitySet="Customers" />
+      <End Role="Trans" EntitySet="Trans" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>

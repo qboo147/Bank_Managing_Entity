@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="6ccb379f663c49219efcd263e8adff5f" Name="Diagram1">
+        <EntityTypeShape EntityType="BankManageDMModel.Borrow" Width="1.5" PointX="5.75" PointY="0.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankManageDMModel.Credit" Width="1.5" PointX="3" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankManageDMModel.Customer" Width="1.5" PointX="0.75" PointY="4.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankManageDMModel.Saving" Width="1.5" PointX="3" PointY="4.625" IsExpanded="true" />
+        <EntityTypeShape EntityType="BankManageDMModel.Tran" Width="1.5" PointX="3" PointY="7.875" IsExpanded="true" />
+        <AssociationConnector Association="BankManageDMModel.FK__Credit__STK__5EBF139D" ManuallyRouted="false" />
+        <AssociationConnector Association="BankManageDMModel.FK__Saving__STK__49C3F6B7" ManuallyRouted="false" />
+        <AssociationConnector Association="BankManageDMModel.FK__Trans__ReceivedS__37A5467C" ManuallyRouted="false" />
+        <AssociationConnector Association="BankManageDMModel.FK__Trans__STK__36B12243" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>

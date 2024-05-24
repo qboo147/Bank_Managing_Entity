@@ -1,0 +1,135 @@
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\bin\Debug\BankManage.exe.config
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\bin\Debug\BankManage.exe
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\bin\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.csproj.SuggestedBindingRedirects.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FDetail.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FLogin.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FMain.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.exe
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FCreate.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FSend.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FTrans.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\BankManage\obj\Debug\BankManage.FWithdraw.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.pdb
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.SuggestedBindingRedirects.cache
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FBorrow.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FCreate.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FDetail.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FLogin.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FMain.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSend.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FTrans.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FWithdraw.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.exe
+E:\study\Sophomore\HKII\WinsPro\Bank\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.SuggestedBindingRedirects.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FBorrow.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FHistory.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FLogin.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FMain.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSend.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FTrans.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FWithdraw.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.exe
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.pdb
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.pdb
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.SuggestedBindingRedirects.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FBorrow.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FHistory.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FLogin.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FMain.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSend.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FTrans.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FWithdraw.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.exe
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.pdb
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe.config
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.exe
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\bin\Debug\BankManage.pdb
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FBorrow.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FHistory.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FLogin.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FMain.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSend.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FTrans.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FWithdraw.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.exe
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.pdb
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSaving.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSaving.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FSaving.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FCredit.resources
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FCredit.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FCredit.resources
+D:\21133078_NguyenTanSuong\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+D:\University\SecondYear\HK2\Win Programing\BankManage\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FInformation.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager\BankManage\Bank-Manager\BankManage\BankManage\obj\Debug\BankManage.FInformation.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.SuggestedBindingRedirects.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FBorrow.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FCredit.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FHistory.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FInformation.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FLogin.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FMain.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FSaving.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FSend.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FTrans.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.FWithdraw.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.exe
+E:\study\Sophomore\HKII\WinsPro\Git\Bank-manager-entity\BankManage\obj\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.AssemblyReference.cache
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.SuggestedBindingRedirects.cache
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FBorrow.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FCredit.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FHistory.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FInformation.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FLogin.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FMain.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FSaving.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FSend.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FTrans.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.FWithdraw.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.Properties.Resources.resources
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.GenerateResource.cache
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.CoreCompileInputs.cache
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.exe
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\BankManage.exe.config
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\BankManage.exe
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\BankManage.pdb
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\EntityFramework.dll
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\EntityFramework.SqlServer.dll
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\EntityFramework.xml
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\bin\Debug\EntityFramework.SqlServer.xml
+D:\University\SecondYear\HK2\Win Programing\Bank-manager-entity\BankManage\obj\Debug\BankManage.csproj.CopyComplete

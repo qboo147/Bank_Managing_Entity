@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="BankManageDMModelStoreContainer" CdmEntityContainer="BankManageDMContext">
+    <EntitySetMapping Name="Borrows">
+      <EntityTypeMapping TypeName="BankManageDMModel.Borrow">
+        <MappingFragment StoreEntitySet="Borrow">
+          <ScalarProperty Name="Money" ColumnName="Money" />
+          <ScalarProperty Name="CitizenID" ColumnName="CitizenID" />
+          <ScalarProperty Name="Salary" ColumnName="Salary" />
+          <ScalarProperty Name="MoneyBorrow" ColumnName="MoneyBorrow" />
+          <ScalarProperty Name="KieuTinDung" ColumnName="KieuTinDung" />
+          <ScalarProperty Name="TaiSanTheChap" ColumnName="TaiSanTheChap" />
+          <ScalarProperty Name="KyHan" ColumnName="KyHan" />
+          <ScalarProperty Name="NgayChoVay" ColumnName="NgayChoVay" />
+          <ScalarProperty Name="NgayHoanTien" ColumnName="NgayHoanTien" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Credits">
+      <EntityTypeMapping TypeName="BankManageDMModel.Credit">
+        <MappingFragment StoreEntitySet="Credit">
+          <ScalarProperty Name="STK" ColumnName="STK" />
+          <ScalarProperty Name="MaThe" ColumnName="MaThe" />
+          <ScalarProperty Name="HanMuc" ColumnName="HanMuc" />
+          <ScalarProperty Name="UsedMoney" ColumnName="UsedMoney" />
+          <ScalarProperty Name="Method" ColumnName="Method" />
+          <ScalarProperty Name="NgayMo" ColumnName="NgayMo" />
+          <ScalarProperty Name="NgayDaoHan" ColumnName="NgayDaoHan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Customers">
+      <EntityTypeMapping TypeName="BankManageDMModel.Customer">
+        <MappingFragment StoreEntitySet="Customer">
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="STK" ColumnName="STK" />
+          <ScalarProperty Name="Name" ColumnName="Name" />
+          <ScalarProperty Name="Address" ColumnName="Address" />
+          <ScalarProperty Name="DoB" ColumnName="DoB" />
+          <ScalarProperty Name="CitizenID" ColumnName="CitizenID" />
+          <ScalarProperty Name="PhoneNum" ColumnName="PhoneNum" />
+          <ScalarProperty Name="Money" ColumnName="Money" />
+          <ScalarProperty Name="CreateAt" ColumnName="CreateAt" />
+          <ScalarProperty Name="UpdateAt" ColumnName="UpdateAt" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Savings">
+      <EntityTypeMapping TypeName="BankManageDMModel.Saving">
+        <MappingFragment StoreEntitySet="Saving">
+          <ScalarProperty Name="STK" ColumnName="STK" />
+          <ScalarProperty Name="MaSo" ColumnName="MaSo" />
+          <ScalarProperty Name="Money" ColumnName="Money" />
+          <ScalarProperty Name="KyHan" ColumnName="KyHan" />
+          <ScalarProperty Name="PhuongThucDaoHan" ColumnName="PhuongThucDaoHan" />
+          <ScalarProperty Name="NgayGui" ColumnName="NgayGui" />
+          <ScalarProperty Name="NgayDaoHan" ColumnName="NgayDaoHan" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Trans">
+      <EntityTypeMapping TypeName="BankManageDMModel.Tran">
+        <MappingFragment StoreEntitySet="Trans">
+          <ScalarProperty Name="Note" ColumnName="Note" />
+          <ScalarProperty Name="STK" ColumnName="STK" />
+          <ScalarProperty Name="MaGD" ColumnName="MaGD" />
+          <ScalarProperty Name="LoaiGD" ColumnName="LoaiGD" />
+          <ScalarProperty Name="Money" ColumnName="Money" />
+          <ScalarProperty Name="ThoigianGD" ColumnName="ThoigianGD" />
+          <ScalarProperty Name="ReceivedSTK" ColumnName="ReceivedSTK" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
